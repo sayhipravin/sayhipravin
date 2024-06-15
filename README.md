@@ -6,7 +6,7 @@
 •❓Ask me KuchBhi...</br>
 •⚡Fun fact: There isn't anything funny about me.</br>
 •😄 Pronouns:**NahiBataunga!**</br>
-•📫 Reach me by a **Helikopter**
+•📫 You can reach me by a **🚁Helikopter!**
 </p>
 <h3 align="center">**🛠 Language & Tools**</h3>
 <div align="center">
