@@ -20,5 +20,5 @@
 </div>
 <h3 align="left">🔥My Stats :</h3>
 <div align="center">
-  <img https://github-readme-streak-stats.herokuapp.com/?user=sayhipravin&theme=default&hide_border=false>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayhipravin&theme=default&hide_border=false">
 </div>
